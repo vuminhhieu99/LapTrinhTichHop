@@ -1,0 +1,710 @@
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.dll.config
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.pdb
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.exe
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.exe.config
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.rsp
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.exe
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.exe.config
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.rsp
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Managed.Core.targets
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.AppContext.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Collections.Immutable.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Console.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Globalization.Calendars.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.Compression.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.FileSystem.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Net.Http.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Net.Sockets.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Reflection.Metadata.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.ValueTuple.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XmlDocument.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XPath.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.exe
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.exe.config
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.rsp
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\VBCSCompiler.exe
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\VBCSCompiler.exe.config
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Antlr3.Runtime.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Microsoft.Web.Infrastructure.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Newtonsoft.Json.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Helpers.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Mvc.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Optimization.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Razor.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Deployment.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Razor.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\WebGrease.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Helpers.xml
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Mvc.xml
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Optimization.xml
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Razor.xml
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.xml
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Deployment.xml
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Razor.xml
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Newtonsoft.Json.xml
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Antlr3.Runtime.pdb
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csprojAssemblyReference.cache
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csproj.CoreCompileInputs.cache
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csproj.CopyComplete
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\Project\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.pdb
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csprojAssemblyReference.cache
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.pdb
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.dll.config
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.pdb
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.exe
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.exe.config
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.rsp
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.exe
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.exe.config
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.rsp
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.AppContext.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Collections.Immutable.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Console.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Globalization.Calendars.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.Compression.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.FileSystem.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Net.Http.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Net.Sockets.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Reflection.Metadata.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.ValueTuple.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XPath.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.exe
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.exe.config
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.rsp
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\VBCSCompiler.exe
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\VBCSCompiler.exe.config
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Antlr3.Runtime.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Microsoft.Web.Infrastructure.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Newtonsoft.Json.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Helpers.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Mvc.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Optimization.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Razor.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Deployment.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Razor.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\WebGrease.dll
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Helpers.xml
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Mvc.xml
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Optimization.xml
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Razor.xml
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.xml
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Deployment.xml
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Razor.xml
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Newtonsoft.Json.xml
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Antlr3.Runtime.pdb
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ki1Nam4\CNLTTichHop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csproj.CopyComplete
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.dll.config
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.pdb
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Antlr3.Runtime.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Microsoft.Web.Infrastructure.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Newtonsoft.Json.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Helpers.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Mvc.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Optimization.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Razor.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Deployment.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Razor.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\WebGrease.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Helpers.xml
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Mvc.xml
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Optimization.xml
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Razor.xml
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.xml
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Deployment.xml
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Razor.xml
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Newtonsoft.Json.xml
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Antlr3.Runtime.pdb
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csprojAssemblyReference.cache
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csproj.CoreCompileInputs.cache
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csproj.CopyComplete
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.pdb
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.exe
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.exe.config
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.rsp
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.exe
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.exe.config
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.rsp
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Managed.Core.targets
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.AppContext.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Collections.Immutable.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Console.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Globalization.Calendars.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.Compression.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.FileSystem.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Net.Http.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Net.Sockets.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Reflection.Metadata.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.ValueTuple.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XmlDocument.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XPath.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.exe
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.exe.config
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.rsp
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\VBCSCompiler.exe
+H:\DEV\My programs\CN lap trinh tich hop\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\VBCSCompiler.exe.config
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.dll.config
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.pdb
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.exe
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.exe.config
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.rsp
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.exe
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.exe.config
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.rsp
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.AppContext.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Collections.Immutable.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Console.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Globalization.Calendars.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.Compression.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.FileSystem.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Net.Http.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Net.Sockets.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Reflection.Metadata.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.ValueTuple.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XPath.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.exe
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.exe.config
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.rsp
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\VBCSCompiler.exe
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\VBCSCompiler.exe.config
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Antlr3.Runtime.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Microsoft.Web.Infrastructure.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Newtonsoft.Json.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Helpers.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Mvc.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Optimization.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Razor.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Deployment.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Razor.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\WebGrease.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Helpers.xml
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Mvc.xml
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Optimization.xml
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Razor.xml
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.xml
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Deployment.xml
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Razor.xml
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Newtonsoft.Json.xml
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Antlr3.Runtime.pdb
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csprojAssemblyReference.cache
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csproj.CoreCompileInputs.cache
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csproj.CopyComplete
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.pdb
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.dll.config
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.pdb
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.exe
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.exe.config
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.rsp
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.exe
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.exe.config
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.rsp
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.AppContext.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Collections.Immutable.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Console.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Globalization.Calendars.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.Compression.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.FileSystem.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Net.Http.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Net.Sockets.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Reflection.Metadata.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.ValueTuple.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XPath.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.exe
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.exe.config
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.rsp
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\VBCSCompiler.exe
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\VBCSCompiler.exe.config
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Antlr3.Runtime.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Microsoft.Web.Infrastructure.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Newtonsoft.Json.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Helpers.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Mvc.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Optimization.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Razor.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Deployment.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Razor.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\WebGrease.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Helpers.xml
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Mvc.xml
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Optimization.xml
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Razor.xml
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.xml
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Deployment.xml
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Razor.xml
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Newtonsoft.Json.xml
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Antlr3.Runtime.pdb
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csprojAssemblyReference.cache
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csproj.CoreCompileInputs.cache
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csproj.CopyComplete
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.dll
+E:\Kì 1 Năm 4\CN Lập Trình TÍch Hợp\QuanLyGiaoVien_Frontend\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.pdb
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.dll.config
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.pdb
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.exe
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.exe.config
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.rsp
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.exe
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.exe.config
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.rsp
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Managed.Core.targets
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.AppContext.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Collections.Immutable.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Console.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Globalization.Calendars.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.Compression.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.FileSystem.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Net.Http.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Net.Sockets.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Reflection.Metadata.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.ValueTuple.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XPath.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.exe
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.exe.config
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.rsp
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\VBCSCompiler.exe
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\VBCSCompiler.exe.config
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Antlr3.Runtime.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Microsoft.Web.Infrastructure.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Newtonsoft.Json.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Helpers.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Mvc.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Optimization.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Razor.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Deployment.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Razor.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\WebGrease.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Helpers.xml
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Mvc.xml
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Optimization.xml
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Razor.xml
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.xml
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Deployment.xml
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Razor.xml
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Newtonsoft.Json.xml
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Antlr3.Runtime.pdb
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csprojAssemblyReference.cache
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csproj.CoreCompileInputs.cache
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csproj.CopyComplete
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.dll
+D:\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.pdb
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.dll.config
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.pdb
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.exe
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.exe.config
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.rsp
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.exe
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.exe.config
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.rsp
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Managed.Core.targets
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.AppContext.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Collections.Immutable.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Console.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Globalization.Calendars.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.Compression.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.FileSystem.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Net.Http.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Net.Sockets.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Reflection.Metadata.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.ValueTuple.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XmlDocument.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XPath.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.exe
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.exe.config
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.rsp
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\VBCSCompiler.exe
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\VBCSCompiler.exe.config
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\Antlr3.Runtime.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\Microsoft.Web.Infrastructure.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\Newtonsoft.Json.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.Helpers.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.Mvc.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.Optimization.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.Razor.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Deployment.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Razor.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\WebGrease.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.Helpers.xml
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.Mvc.xml
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.Optimization.xml
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.Razor.xml
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.xml
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Deployment.xml
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Razor.xml
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\Newtonsoft.Json.xml
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\Antlr3.Runtime.pdb
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csprojAssemblyReference.cache
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csproj.CoreCompileInputs.cache
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csproj.CopyComplete
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.dll
+G:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.pdb
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.dll.config
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.pdb
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.exe
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.exe.config
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.rsp
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.exe
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.exe.config
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.rsp
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Managed.Core.targets
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.AppContext.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Collections.Immutable.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Console.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Globalization.Calendars.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.Compression.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.FileSystem.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Net.Http.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Net.Sockets.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Reflection.Metadata.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.ValueTuple.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XmlDocument.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XPath.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.exe
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.exe.config
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.rsp
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\VBCSCompiler.exe
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\roslyn\VBCSCompiler.exe.config
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\Antlr3.Runtime.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\Microsoft.Web.Infrastructure.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\Newtonsoft.Json.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.Helpers.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.Mvc.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.Optimization.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.Razor.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Deployment.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Razor.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\WebGrease.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.Helpers.xml
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.Mvc.xml
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.Optimization.xml
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.Razor.xml
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.xml
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Deployment.xml
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Razor.xml
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\Newtonsoft.Json.xml
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\Antlr3.Runtime.pdb
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csproj.CoreCompileInputs.cache
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csproj.CopyComplete
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.dll
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.pdb
+F:\LapTrinhTichHopFrontend\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csprojAssemblyReference.cache
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.dll.config
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\FEQLGV.pdb
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.exe
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.exe.config
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csc.rsp
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.exe
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.exe.config
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\csi.rsp
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Managed.Core.targets
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.AppContext.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Collections.Immutable.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Console.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Globalization.Calendars.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.Compression.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.FileSystem.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Net.Http.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Net.Sockets.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Reflection.Metadata.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.ValueTuple.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XmlDocument.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XPath.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.exe
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.exe.config
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\vbc.rsp
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\VBCSCompiler.exe
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\roslyn\VBCSCompiler.exe.config
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Antlr3.Runtime.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Microsoft.Web.Infrastructure.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Newtonsoft.Json.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Helpers.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Mvc.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Optimization.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Razor.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Deployment.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Razor.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\WebGrease.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Helpers.xml
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Mvc.xml
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Optimization.xml
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.Razor.xml
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.xml
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Deployment.xml
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\System.Web.WebPages.Razor.xml
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Newtonsoft.Json.xml
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Antlr3.Runtime.pdb
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csprojAssemblyReference.cache
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csproj.CoreCompileInputs.cache
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.csproj.CopyComplete
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.dll
+E:\kỳ 1 năm 4\Công nghệ lập trình tích hợp\LapTrinhTichHop\Frontend\FEQLGV\FEQLGV\obj\Debug\FEQLGV.pdb

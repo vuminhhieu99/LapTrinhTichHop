@@ -1,0 +1,239 @@
+﻿
+@{
+    ViewBag.Title = "BienSoanSach";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Styles{
+    <title>AdminLTE 3 | Product</title>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="/Assets/plugins/fontawesome-free/css/all.min.css">
+    <!-- DataTables -->
+    <link rel="stylesheet" href="/Assets/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="/Assets/plugins/datatables-responsive/css/responsive.bootstrap4.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="/Assets/dist/css/adminlte.min.css">
+
+    <!-- SweetAlert2 -->
+    <link rel="stylesheet" href="/Assets/plugins/sweetalert2-theme-bootstrap-4/bootstrap-4.min.css">
+    <!-- Toastr -->
+    <link rel="stylesheet" href="/Assets/plugins/toastr/toastr.min.css">
+
+    <!-- Bootstrap4 Duallistbox -->
+    <link rel="stylesheet" href="/Assets/plugins/bootstrap4-duallistbox/bootstrap-duallistbox.min.css">
+    <!-- BS Stepper -->
+    <link rel="stylesheet" href="/Assets/plugins/bs-stepper/css/bs-stepper.min.css">
+
+
+
+
+
+    <style>
+        body {
+            padding-right: 0 !important
+        }
+
+        th {
+            font-weight: initial !important
+        }
+    </style>
+}
+
+
+<!-- Header content -->
+<div id="idGiaoVien" hidden="hidden">@ViewBag.id</div>
+<section class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1>Giáo viên</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item active">Quản lý giáo viên</li>
+                </ol>
+            </div>
+        </div>
+    </div><!-- /.container-fluid -->
+</section>
+<!-- /.Header content -->
+<!-- Main content -->
+<section class="content">
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-12">
+                <div class="card">
+                    <!-- card-header -->
+                    <div class="card-header">
+                        <!-- control content -->
+                        <table style="width:100%">
+                            <col style="width:25%">
+                            <col style="width:55%">
+                            <col style="width:20%">
+                            <tr>
+                                <td>
+                                    <div>
+                                        <p style="font-size:64px;">GV+</p>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div><b>Họ tên:</b> <span id="NameGV"></span></div>
+                                    <div><b>Mã giáo viên:</b> <span id="MaGV"></span></div>
+                                    <div><b>Số điện thoại:</b> <span id="DienThoaiGV"></span></div>
+                                    <div><b>Email:</b> <span id="EmailGV"></span></div>
+                                </td>
+                                <td>
+                                    <table style="width: 300px;">
+                                        <tr style="float: right">
+                                            <td>
+                                                <label>
+                                                    <select class="form-control" name="NamHoc" id="searchNam">
+                                                        <option value="0" selected="">--Năm học--</option>
+                                                        <option value="2020-2021">2020-2021</option>
+                                                        <option value="2019-2020">2019-2020</option>
+                                                        <option value="2018-2019">2018-2019</option>
+                                                        <option value="2017-2018">2017-2018</option>
+                                                        <option value="2016-2017">2016-2017</option>
+                                                        <option value="2015-2016">2015-2016</option>
+                                                        <option value="2014-2015">2014-2015</option>
+                                                    </select>
+                                                </label>
+                                                &nbsp;&nbsp;&nbsp;
+                                                <label>
+                                                    <select class="form-control" name="HocKy" id="searchKi">
+                                                        <option value="0">Học kỳ</option>
+                                                        <option value="1">Kỳ 1</option>
+                                                        <option value="2">Kỳ 2</option>
+                                                    </select>
+                                                </label>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td><br /><h4>Số sách biên soạn: <span id="Total"></span></h4></td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+
+                        <!-- /.control content -->
+                    </div>
+                    <!-- /.card-header -->
+                    <div class="card-body">
+                        <div class="d-flex ">
+
+                            <button type="button" class="btn btn-flat">
+                                @Html.ActionLink("Bài báo khoa học", "BaiBaoKhoaHoc", new { @id = ViewBag.id })
+                            </button>
+                            <button type="button" class="btn btn-flat">
+                                @Html.ActionLink("Nghiên cứu đề tài", "NghienCuuDeTai", new { @id = ViewBag.id })
+                            </button>
+                            <button type="button" class="btn btn-default ">
+                                @Html.ActionLink("Biên soạn sách", "BienSoanSach", new { @id = ViewBag.id })
+                            </button>
+                            <div class="dataTables_length ml-auto row" id="example1_length">
+                                <label class="col">
+                                    Show
+                                </label>
+                                <select name="example1_length" aria-controls="example1" class="custom-select custom-select-sm form-control form-control-sm col">
+                                    <option value="5">5</option>
+                                    <option value="10" selected>10</option>
+                                    <option value="50">50</option>
+                                    <option value="100">100</option>
+                                </select>
+
+                            </div>
+                        </div>
+                        <table id="example1" class="table table-hover dataTable no-footer dtr-inline collapsed">
+                            <thead>
+                                <tr>
+                                    <th>STT</th>
+                                    <th>Mã sách</th>
+                                    <th>Tên sách</th>
+                                    <th>Loại sách</th>
+                                    <th>Nơi xuất bản</th>
+                                    <th>Số trang viết</th>
+                                    <th>Năm</th>
+                                    <th>Kì học</th>
+                                    <th>Số giờ</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+
+                        </table>
+                        <!-- processing load -->
+                        <div class="d-flex justify-content-center">
+                            <div class="processing-example text-info" role="status">
+
+                            </div>
+                            <span class="sr-only">Loading...</span>
+                        </div>
+
+                        <!-- phân trang -->
+                        <div class="row dataTables_wrapper">
+
+                            <div class="col-sm-12 col-md-6">
+                                <b style="color:navy">
+                                    <span>Đang hiển thị (<span class="startItemofPage">...</span>-<span class="endItemofPage">...</span>) / <span class="countItem">...</span></span>
+                                </b>
+                            </div>
+                            <div class="col-sm-12 col-md-6">
+                                <div class="dataTables_paginate paging_simple_numbers" id="example2_paginate">
+                                    <ul class="pagination">
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- /.phân trang -->
+                    </div>
+                    <!-- /.card-body -->
+                </div>
+                <!-- /.card -->
+            </div>
+            <!-- /.col -->
+        </div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container-fluid -->
+</section>
+<!-- /.content -->
+
+@section Scripts{
+    <script src="/Assets/plugins/jquery/jquery.min.js"></script>
+    <!-- Bootstrap 4 -->
+    <script src="/Assets/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- DataTables -->
+    <script src="/Assets/plugins/datatables/jquery.dataTables.min.js"></script>
+    <script src="/Assets/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="/Assets/plugins/datatables-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="/Assets/plugins/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="/Assets/dist/js/adminlte.min.js"></script>
+    <!-- AdminLTE for demo purposes -->
+    <script src="/Assets/dist/js/demo.js"></script>
+
+    <!-- SweetAlert2 -->
+    <script src="/Assets/plugins/sweetalert2/sweetalert2.min.js"></script>
+    <!-- Toastr -->
+    <script src="/Assets/plugins/toastr/toastr.min.js"></script>
+
+    <!-- Bootstrap Switch -->
+    <script src="/Assets/plugins/bootstrap-switch/js/bootstrap-switch.min.js"></script>
+    <!-- BS-Stepper -->
+    <script src="/Assets/plugins/bs-stepper/js/bs-stepper.min.js"></script>
+
+    <!-- dropzonejs -->
+    <script src="/Assets/plugins/dropzone/min/dropzone.min.js"></script>
+
+    <script src="/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+
+    <script src="/Content/jsController/BienSoanSachJS.js"></script>
+
+}
+
+
+

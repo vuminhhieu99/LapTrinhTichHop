@@ -1,0 +1,545 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Quản lý giáo viên| Đăng nhập</title>
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <!-- Bootstrap 3.3.4 -->
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="/Assets/plugins/fontawesome-free/css/all.min.css">
+    <!-- icheck bootstrap -->
+    <link rel="stylesheet" href="/Assets/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
+    <!-- Toastr -->
+    <link rel="stylesheet" href="/Assets/plugins/toastr/toastr.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="/Assets/dist/css/adminlte.min.css">
+    <style type="text/css">
+        html {
+            background: url(/Content/image/bg_login.jpg) no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        }
+
+        body {
+            margin: 0;
+            /*background: url(/Content/image/bg_login.jpg) no-repeat !important;
+            position: fixed;
+            top: 0;
+            left: 0;*/
+            /* Preserve aspet ratio */
+            /*min-width: 100%;
+            min-height: 100%;*/
+            background-color: transparent !important;
+            font: 600 16px/18px 'Open Sans',sans-serif;
+        }
+
+        *, :after, :before {
+            box-sizing: border-box
+        }
+
+        .clearfix:after, .clearfix:before {
+            content: '';
+            display: table
+        }
+
+        .clearfix:after {
+            clear: both;
+            display: block
+        }
+
+        a {
+            color: inherit;
+            text-decoration: none
+        }
+
+        .login-wrap {
+            width: 100%;
+            margin: auto;
+            max-width: 525px;
+            min-height: 670px;
+            position: relative;
+            background: url(/Content/image/bg.jpg) no-repeat center;
+            box-shadow: 0 12px 15px 0 rgba(0,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);
+            top: 8em;
+        }
+
+        .login-html {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            padding: 90px 70px 50px 70px;
+            background: rgba(40,57,101,.9);
+        }
+
+            .login-html .sign-in-htm,
+            .login-html .sign-up-htm {
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                position: absolute;
+                transform: rotateY(180deg);
+                backface-visibility: hidden;
+                transition: all .4s linear;
+            }
+
+            .login-html .sign-in,
+            .login-html .sign-up,
+            .login-form .group .check {
+                display: none;
+            }
+
+            .login-html .tab,
+            .login-form .group .label,
+            .login-form .group .button {
+                text-transform: uppercase;
+            }
+
+            .login-html .tab {
+                font-size: 22px;
+                margin-right: 15px;
+                padding-bottom: 5px;
+                margin: 0 15px 10px 0;
+                display: inline-block;
+                border-bottom: 2px solid transparent;
+            }
+
+            .login-html .sign-in:checked + .tab,
+            .login-html .sign-up:checked + .tab {
+                color: #fff;
+                border-color: #1161ee;
+            }
+
+        .login-form {
+            min-height: 345px;
+            position: relative;
+            perspective: 1000px;
+            transform-style: preserve-3d;
+        }
+
+            .login-form .group {
+                margin-bottom: 15px;
+            }
+
+                .login-form .group .label,
+                .login-form .group .input,
+                .login-form .group .button {
+                    width: 100%;
+                    color: #fff;
+                    display: block;
+                }
+
+                .login-form .group .input,
+                .login-form .group .button {
+                    border: none;
+                    padding: 15px 20px;
+                    border-radius: 25px;
+                    background: rgba(255,255,255,.1);
+                }
+
+                /*.login-form .group input[data-type="password"] {
+                    text-security: circle;
+                    -webkit-text-security: circle;
+                }*/
+
+                .login-form .group .label {
+                    color: #aaa;
+                    font-size: 12px;
+                }
+
+                .login-form .group .button {
+                    background: #1161ee;
+                }
+
+                .login-form .group label .icon {
+                    width: 15px;
+                    height: 15px;
+                    border-radius: 2px;
+                    position: relative;
+                    display: inline-block;
+                    background: rgba(255,255,255,.1);
+                }
+
+                    .login-form .group label .icon:before,
+                    .login-form .group label .icon:after {
+                        content: '';
+                        width: 10px;
+                        height: 2px;
+                        background: #fff;
+                        position: absolute;
+                        transition: all .2s ease-in-out 0s;
+                    }
+
+                    .login-form .group label .icon:before {
+                        left: 3px;
+                        width: 5px;
+                        bottom: 6px;
+                        transform: scale(0) rotate(0);
+                    }
+
+                    .login-form .group label .icon:after {
+                        top: 6px;
+                        right: 0;
+                        transform: scale(0) rotate(0);
+                    }
+
+                .login-form .group .check:checked + label {
+                    color: #fff;
+                }
+
+                    .login-form .group .check:checked + label .icon {
+                        background: #1161ee;
+                    }
+
+                        .login-form .group .check:checked + label .icon:before {
+                            transform: scale(1) rotate(45deg);
+                        }
+
+                        .login-form .group .check:checked + label .icon:after {
+                            transform: scale(1) rotate(-45deg);
+                        }
+
+        .login-html .sign-in:checked + .tab + .sign-up + .tab + .login-form .sign-in-htm {
+            transform: rotate(0);
+        }
+
+        .login-html .sign-up:checked + .tab + .login-form .sign-up-htm {
+            transform: rotate(0);
+        }
+
+        .hr {
+            height: 2px;
+            margin: 60px 0 50px 0;
+            background: rgba(255,255,255,.2);
+        }
+
+        .foot-lnk {
+            text-align: center;
+        }
+
+        .blink_me {
+            animation: blinker 0.5s linear infinite;
+        }
+
+        @@keyframes blinker {
+            50% {
+                opacity: 0;
+            }
+        }
+
+        .bg-process {
+            background-color: rgba(0,0,0, 0); /* Black w/opacity/see-through */
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 2;
+            width: 100%;           
+            text-align: center;
+        }
+    </style>
+
+</head>
+
+<!-- processing load -->
+
+<div class="bg-process">
+    <div class="d-flex justify-content-center ">
+        <div class="processing-example text-info " role="status">
+
+        </div>
+        <span class="sr-only">Loading...</span>
+
+    </div>
+</div>
+
+<body class="hold-transition login-page" ; background-repeat:repeat-x repeat-y">
+    <div class="login-wrap">
+
+        <div class="login-html">
+
+            <input id="tab-1" type="radio" name="tab" class="sign-in" checked> <label for="tab-1" class="tab"> Sign In</label>
+            <input id="tab-2" type="radio" name="tab" class="sign-up"> <label for="tab-2" class="tab"> Sign Up</label>
+            <div class="login-form">
+                <div class="sign-in-htm">
+                    <div class="group">
+                        <label for="user" class="label"> Username</label>
+                        <input id="user" type="text" class="input">
+                    </div>
+                    <div class="group">
+                        <label for="pass" class="label"> Password</label>
+                        <input id="pass" type="password" class="input" data-type="password">
+                    </div>
+                    <div class="group">
+                        <input id="showPass" type="checkbox" class="check">
+                        <label for="showPass"> <span class="icon"> </span> Show password</label>
+                    </div>
+                    <div class="group">
+                        <input id="check" type="checkbox" class="check" checked>
+                        <label for="check"> <span class="icon"> </span> Keep me Signed in</label>
+                    </div>
+                    <div class="group">
+                        <input type="button" class="button SignIn" value="Sign In">
+                    </div>
+                    <div class="hr"> </div>
+                    @*<div class="foot-lnk">
+                            <a href="#forgot"> Forgot Password?</a>
+                        </div>*@
+                </div>
+                <div class="sign-up-htm">
+                    <div class="group">
+                        <label for="name" class="label"> Name</label>
+                        <input id="name" type="text" class="input">
+                    </div>
+                    <div class="group">
+                        <label for="user" class="label"> Username</label>
+                        <input id="user" type="text" class="input">
+                    </div>
+                    <div class="group">
+                        <label for="pass" class="label"> Password</label>
+                        <input id="pass" type="password" class="input" data-type="password">
+                    </div>
+                    <div class="group">
+                        <label for="repass" class="label"> Repeat Password</label>
+                        <input id="repass" type="password" class="input" data-type="password">
+                    </div>
+                    <div class="group">
+                        <label for="email" class="label"> Email Address</label>
+                        <input id="email" type="text" class="input">
+                    </div>
+                    <div class="group">
+                        <input type="submit" class="button SignUp" value="Sign Up">
+                    </div>
+                    <div class="hr"> </div>
+                    <div class="foot-lnk">
+                        <label for="tab-1"> Already Member?</a >
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /.login-box -->
+    <!-- jQuery 2.1.4 -->
+    <script src="/Assets/plugins/jquery/jquery.min.js"></script>
+    <!-- Bootstrap 4 -->
+    <script src="/Assets/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="/Assets/dist/js/adminlte.min.js"></script>
+    <!-- Toastr -->
+    <script src="/Assets/plugins/toastr/toastr.min.js"></script>
+
+    <script src="/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+
+    <script>
+        class login {
+            SignInSuccess(data) {
+                var model = { UserName: data.userName, Name: data.Name, Email: data.Email }
+                $.ajax({
+                    url: '/Login/Login',
+                    data: { data: JSON.stringify(model) },
+                    dataType: 'json',
+                    method: 'POST'
+                }).done(function (data) {
+                    if (data.status == true) {
+                        window.location.href = "/Giaovien/Index";
+                    }
+                    else {
+                        alert("Lỗi đăng nhập")
+                    }
+                }).fail(function () {
+                    alert("Lỗi! không thể xóa")
+                });
+            }
+
+            SignUpSuccess(message) {
+                toastr.success(message);
+            }
+        }
+        // show password in modal create customer
+        $('.sign-in-htm #showPass').change(function () {
+            $(this).is(':checked') ? $('.sign-in-htm #pass').attr('type', 'text') : $('.sign-in-htm #pass').attr('type', 'password');
+        });
+        //-------------------//
+        $('.SignIn').on('click', function () {
+            var user = $('.sign-in-htm #user').val().toString();
+            if (user == "") {
+                if ($('.errol-user-signin').length == 0) {
+                    $('.sign-in-htm #user').parent().append('<small class="text-light float-right errol-user-signin">Vui lòng điền thông tin !</small>');
+                }
+                else {
+                    $('.errol-user-signin').addClass("blink_me");
+                    setTimeout(function () {
+                        $('.errol-user-signin').removeClass("blink_me");
+                    }, 2000);
+                }
+            }
+            else {
+                $('.errol-user-signin').remove();
+            }
+
+            var pass = $('.sign-in-htm #pass').val().toString();
+            if (pass == "") {
+                if ($('.errol-pass-signin').length == 0) {
+                    $('.sign-in-htm #pass').parent().append('<small class="text-light float-right errol-pass-signin">Vui lòng điền thông tin !</small>');
+                }
+                else {
+                    $('.errol-pass-signin').addClass("blink_me");
+                    setTimeout(function () {
+                        $('.errol-pass-signin').removeClass("blink_me");
+                    }, 2000);
+                }
+            }
+            else {
+                $('.errol-pass-signin').remove();
+            }
+            if (user != "" && pass != "") {
+                $('.processing-example').addClass('spinner-border');
+                var model = { UserName: user, Password: pass };
+                $.ajax({
+                    url: 'http://localhost:54555/api/user/login',
+                    data: JSON.stringify(model),
+                    dataType: 'json',
+                    method: 'POST',
+                    contentType: 'application/json'
+                }).done(function (data) {
+                    $('.processing-example').removeClass('spinner-border');
+                    if (data.status == true) {
+                        new login().SignInSuccess(data);
+                    }
+                    else {
+                        toastr.error(data.message);
+                    }
+
+                }).fail(function () {
+                    $('.processing-example').removeClass('spinner-border');
+                    alert("Lỗi! không thể xóa")
+                });
+            }
+
+
+            return false;
+        });
+        $('.SignUp').on('click', function () {
+            var user = $('.sign-up-htm #user').val().toString();
+            if (user == "") {
+                if ($('.errol-user-signup').length == 0) {
+                    $('.sign-up-htm #user').parent().append('<small class="text-light float-right errol-user-signup">Vui lòng điền thông tin !</small>');
+                }
+                else {
+                    $('.errol-user-signup').addClass("blink_me");
+                    setTimeout(function () {
+                        $('.errol-user-signup').removeClass("blink_me");
+                    }, 2000);
+                }
+            }
+            else {
+                $('.errol-user-signup').remove();
+            }
+
+            var pass = $('.sign-up-htm #pass').val().toString();
+            if (pass == "") {
+                if ($('.errol-pass-signup').length == 0) {
+                    $('.sign-up-htm #pass').parent().append('<small class="text-light float-right errol-pass-signup">Vui lòng điền thông tin !</small>');
+                }
+                else {
+                    $('.errol-pass-signup').addClass("blink_me");
+                    setTimeout(function () {
+                        $('.errol-pass-signup').removeClass("blink_me");
+                    }, 2000);
+                }
+            }
+
+            else {
+                $('.errol-pass-signup').remove();
+            }
+            var repass = $('.sign-up-htm #repass').val().toString();
+            if (repass != pass) {
+                if ($('.errol-repass-signup').length == 0) {
+                    $('.sign-up-htm #repass').parent().append('<small class="text-light float-right errol-repass-signup">Mật khẩu không đúng !</small>');
+                }
+                else {
+                    $('.errol-repass-signup').addClass("blink_me");
+                    setTimeout(function () {
+                        $('.errol-repass-signup').removeClass("blink_me");
+                    }, 2000);
+                }
+            }
+            else {
+                $('.errol-repass-signup').remove();
+            }
+
+            var name = $('.sign-up-htm #name').val().toString();
+            if (name == "") {
+                if ($('.errol-name-signup').length == 0) {
+                    $('.sign-up-htm #name').parent().append('<small class="text-light float-right errol-name-signup">Mật khẩu không đúng !</small>');
+                }
+                else {
+                    $('.errol-name-signup').addClass("blink_me");
+                    setTimeout(function () {
+                        $('.errol-name-signup').removeClass("blink_me");
+                    }, 2000);
+                }
+            }
+            else {
+                $('.errol-name-signup').remove();
+            }
+
+            var email = $('.sign-up-htm #email').val().toString();
+            if (email == "") {
+                if ($('.errol-email-signup').length == 0) {
+                    $('.sign-up-htm #email').parent().append('<small class="text-light float-right errol-email-signup">Vui lòng điền thông tin!</small>');
+                }
+                else {
+                    $('.errol-email-signup').addClass("blink_me");
+                    setTimeout(function () {
+                        $('.errol-email-signup').removeClass("blink_me");
+                    }, 2000);
+                }
+            }
+            else {
+                $('.errol-email-signup').remove();
+            }
+            if (name != "" && user != "" && pass != "" && repass == pass && email != "") {
+                $('.processing-example').addClass('spinner-border');
+                var model = { UserName: user, Password: pass, Email: email, Name: name };
+                $.ajax({
+                    url: 'http://localhost:54555/api/user/register',
+                    data: JSON.stringify(model),
+                    dataType: 'json',
+                    method: 'POST',
+                    contentType: 'application/json'
+                }).done(function (data) {
+                    $('.processing-example').removeClass('spinner-border');
+                    if (data.status == true) {
+                        new login().SignUpSuccess(data.message);
+                    }
+                    else {
+                        toastr.error(data.message);
+
+                    }
+
+                }).fail(function () {
+                    toastr.error("Lỗi!");
+                    $('.processing-example').removeClass('spinner-border');
+                });
+            }
+
+
+            return false;
+        });
+        
+    </script>
+</body>
+</html>
+
+

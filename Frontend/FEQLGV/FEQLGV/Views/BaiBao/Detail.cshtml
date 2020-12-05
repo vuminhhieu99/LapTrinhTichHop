@@ -1,0 +1,583 @@
+﻿@{ ViewBag.Title = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+@section Styles{
+    <title>AdminLTE 3 | Product</title>
+
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="/Assets/plugins/fontawesome-free/css/all.min.css">
+    <!-- DataTables -->
+    <link rel="stylesheet" href="/Assets/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="/Assets/plugins/datatables-responsive/css/responsive.bootstrap4.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="/Assets/dist/css/adminlte.min.css">
+    <!-- SweetAlert2 -->
+    <link rel="stylesheet" href="/Assets/plugins/sweetalert2-theme-bootstrap-4/bootstrap-4.min.css">
+    <!-- Toastr -->
+    <link rel="stylesheet" href="/Assets/plugins/toastr/toastr.min.css">
+
+    <!-- Bootstrap Color Picker -->
+    <link rel="stylesheet" href="/Assets/plugins/bootstrap-colorpicker/css/bootstrap-colorpicker.min.css">
+    <!-- Tempusdominus Bootstrap 4 -->
+    <link rel="stylesheet" href="/Assets/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css">
+    <!-- Select2 -->
+    <link rel="stylesheet" href="/Assets/plugins/select2/css/select2.min.css">
+    <link rel="stylesheet" href="/Assets/plugins/select2-bootstrap4-theme/select2-bootstrap4.min.css">
+    <!-- Bootstrap4 Duallistbox -->
+    <link rel="stylesheet" href="/Assets/plugins/bootstrap4-duallistbox/bootstrap-duallistbox.min.css">
+    <!-- BS Stepper -->
+    <link rel="stylesheet" href="/Assets/plugins/bs-stepper/css/bs-stepper.min.css">
+    <!-- dropzonejs -->
+    <link rel="stylesheet" href="/Assets/plugins/dropzone/min/dropzone.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="/Assets/dist/css/adminlte.min.css">
+
+
+
+
+    <style>
+        body {
+            padding-right: 0 !important
+        }
+
+        th {
+            font-weight: initial !important
+        }
+    </style>
+}
+
+<!-- Create Modal -->
+<div class="modal fade" id="createModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+            <form id="createThanhVienForm" action="#">
+                <div class="modal-header">
+                    <h5 class="modal-title w-100 text-center" id="exampleModalCenterTitle">THÊM THÀNH VIÊN SÁCH</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-md-4 d-flex align-items-center">
+                                <label>Thành viên</label>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="form-group">
+                                    <select class="form-control select2" style="width: 100%;" name="IdGiaoVien">
+                                        <option value="0" selected="selected">Chọn giáo viên</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4 d-flex align-items-center">
+                                <label>Số giờ</label>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" name="Gio">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="modal-footer justify-content-between">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    <input type="submit" id="CreateThanhVien" name="Submit" class="btn btn-primary" value="Lưu" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<!-- /. Create Modal -->
+<!-- Edit Modal -->
+<div class="modal fade" id="edithModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title w-100 text-center" id="exampleModalCenterTitle">SỬA THÀNH VIÊN</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-4 d-flex align-items-center">
+                            <label>Mã sách</label>
+                        </div>
+                        <div class="col-md-8">
+                            <div class="form-group">
+                                <input type="text" class="form-control" name="IdBaiBao" disabled="disabled">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4 d-flex align-items-center">
+                            <label>Giáo viên</label>
+                        </div>
+                        <div class="col-md-8">
+                            <div class="form-group">
+                                <input type="text" class="form-control" name="IdGiaoVien" disabled="disabled">
+                            </div>
+                        </div>
+                    </div>
+                    <form id="EditForm" action="#">
+                        <div class="row">
+                            <div class="col-md-4 d-flex align-items-center">
+                                <label>Số giờ</label>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" name="Gio">
+                                </div>
+                            </div>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+            <div class="modal-footer justify-content-between">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <input type="button" id="EditThanhVien" name="Submit" class="btn btn-primary" value="Lưu" />
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /. Edit Modal -->
+<!-- Confirm Delete Modal -->
+<div class="modal fade" id="confirmDeleteModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+
+            <div class="modal-header">
+                <h5 class="modal-title w-100 text-center" id="exampleModalCenterTitle">XÁC NHẬN XÓA SÁCH</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body d-flex flex-row-reverse">
+                <div class="m-1">
+                    <input type="submit" id="confirmDel" name="Submit" class="btn btn-primary" value="Đồng ý" />
+
+                </div>
+                <div class="m-1">
+                    <input type="submit" class="btn btn-default" data-dismiss="modal" value="Hủy" />
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- /. Confirm Delete Modal -->
+<br>
+<div id="idBaiBao" hidden="hidden">@ViewBag.id</div>
+<section class="content">
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="row col-5 ">
+
+
+                <div class="col-md-5 d-flex justify-content-center">
+                    <p style="font-size:64px;">BB+</p>
+                </div>
+                <div class="col-md-7">
+                    <br>
+                    <div class="form-group">
+                        <span>Tên Bài Báo <span class="tenBaiBao text-bold"></span></span>
+                    </div>
+                    <div class="form-group">
+                        <span>Mã Bài Báo: <span class="maBaiBao text-bold" id="idMaBaiBao"></span></span>
+                    </div>
+                    <br>
+                    <!-- Main content -->
+                    <div class="col-ms-10">
+                        <button type="button" class="btn btn-success" id="bt_createThanhVien" data-toggle="modal" data-target="#createModal">
+                            <i class="fa fa-plus-square"></i> &nbsp;
+                            Thêm mới
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="col-7">
+                <div class="container-fluid">
+
+                    <div class="row mb-2 d-flex justify-content-center">
+
+                        <h4>Danh sách giáo viên tham gia</h4>
+                    </div>
+                </div><!-- /.container-fluid -->
+                <div class="card">
+                    <div class="card-body">
+                        <table id="example1" class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th>STT</th>
+                                    <th>Mã giáo viên</th>
+                                    <th>Tên giáo viên</th>
+                                    <th>Số giờ</th>
+                                    <th>Thao tác</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            </tbody>
+                        </table>
+                        <!-- processing load -->
+                        <div class="d-flex justify-content-center">
+                            <div class="processing-example text-info" role="status">
+
+                            </div>
+                            <span class="sr-only">Loading...</span>
+                        </div>
+
+                        <div class="row dataTables_wrapper">
+
+                            <div class="col-sm-12 col-md-6">
+                                <p style="color:navy">
+                                    <span>Đang hiển thị <span class="countItem"></span></span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.card-body -->
+                </div>
+                <!-- /.card -->
+            </div>
+            <!-- /.col -->
+        </div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container-fluid -->
+</section>
+<!-- /.content -->
+
+@section Scripts{
+    <script src="/Assets/plugins/jquery/jquery.min.js"></script>
+    <!-- Bootstrap 4 -->
+    <script src="/Assets/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Select2 -->
+    <script src="/Assets/plugins/select2/js/select2.full.min.js"></script>
+    <!-- DataTables -->
+    <script src="/Assets/plugins/datatables/jquery.dataTables.min.js"></script>
+    <script src="/Assets/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="/Assets/plugins/datatables-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="/Assets/plugins/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="/Assets/dist/js/adminlte.min.js"></script>
+    <!-- AdminLTE for demo purposes -->
+    <script src="/Assets/dist/js/demo.js"></script>
+
+    <!-- SweetAlert2 -->
+    <script src="/Assets/plugins/sweetalert2/sweetalert2.min.js"></script>
+    <!-- Toastr -->
+    <script src="/Assets/plugins/toastr/toastr.min.js"></script>
+
+    <!-- Bootstrap Switch -->
+    <script src="/Assets/plugins/bootstrap-switch/js/bootstrap-switch.min.js"></script>
+    <!-- BS-Stepper -->
+    <script src="/Assets/plugins/bs-stepper/js/bs-stepper.min.js"></script>
+
+    <script src="/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+
+    @*<script src="~/Content/jsController/DetailBaiBaoJS.js"></script>*@
+    <script>
+        var table = $("#example1").DataTable({
+            "paging": false,
+            "lengthChange": false,
+            "searching": false,
+            "ordering": false,
+            "info": false,
+            "autoWidth": false,
+            "responsive": true,
+
+        });
+        //----------------//
+
+        ////Initialize Select2 Elements
+        $('.select2').select2()
+        ////--------------//
+
+
+
+        //add class for slidebar
+        $('#BaiBao').addClass('menu-open');
+        $('#BaiBao>a').addClass('active');
+        //--------------//
+
+        //load data with change pagesize
+        $("#PageSize").change(function () {
+            $("#form1").submit();
+        });
+        //-------------//
+
+        // set class css for ỉtemPage- because pagelist not compatial boostrap 4 in this version of adminLTE
+        $('.pagination a').addClass('page-link');
+        //-------------//
+
+        // reset then open modal create Product
+        $('#bt_createDeTai').click(function () {
+            document.getElementById("createDeTai").reset();
+        });
+        //----------------//
+
+
+
+
+        class DetailBaiBaoJS {
+            idBaiBao;
+            listThanhVien;
+            total;
+            constructor() {
+                this.idBaiBao = $('#idBaiBao').text();
+                this.listThanhVien = [];
+            }
+            loadBaiBao() {
+                $.ajax({
+                    url: 'http://localhost:54555/api/BaiBao/GetBaiBaoById',
+                    data: { Id: this.idBaiBao },
+                    dataType: 'json',
+                    method: 'GET'
+                }).done(function (data) {
+                    $('.tenBaiBao').text(data.Ten);
+                    $('.maBaiBao').text(data.Ma);
+                });
+
+            }
+            loadThanhVien() {
+                table.clear().draw();
+                $('.processing-example').addClass('spinner-border');
+                var self = this;
+                $.ajax({
+                    url: 'http://localhost:54555/api/GiaoVien/GetGiaoVienByBaiBao',
+                    data: { id: this.idBaiBao },
+                    dataType: 'json',
+                    method: 'GET'
+                }).done(function (data) {
+                    var counter = 1;
+                    $.each(data, function (index, item) {
+                        table.row.add([
+                            counter++,
+                            item.Ma,
+                            item.Ten,
+                            item.SoGio,
+                            `<button type="button" class="btn btn-default edit" data-idgvbb="${item.IdGVBB == null ? "0" : item.IdGVBB}" data-idgiaovien="${item.Id}" ">
+                                                                                <i class="fas fa-pen"></i> </button>
+                                                                        <button type="button" class="btn btn-default delete" data-id="${item.IdGVBB == null ? "0" : item.IdGVBB}">
+                                                                               <i class="fas fa-trash"></i> </button>`,
+                        ]).draw(false);
+                        self.listThanhVien.push(item.Id);
+                        counter++;
+                    });
+                    self.pageTotal = data == null ? "0" : data.length;
+                    $('.countItem').text(self.pageTotal);
+                    $('.processing-example').removeClass('spinner-border');
+                });
+
+            }
+            loadSelectGiaoVien(select, selectID = 0) {
+                $(select).empty();
+                $(select).append($('<option>', {
+                    value: "0",
+                    text: "--Chọn giáo viên--"
+                }));
+                $.ajax({
+                    url: 'http://localhost:54555/api/GiaoVien/GetAllGiaoVien',
+                    dataType: 'json',
+                    method: 'GET'
+                }).done(function (data) {
+                    $.each(data.items, function (i, item) {
+                        if (detailBaiBaoJS.listThanhVien.indexOf(item.Id) == -1 || item.Id == selectID) {
+                            $(select).append($('<option>', {
+                                value: item.Id.toString(),
+                                text: item.Ten.toString()
+                            }));
+                        }
+                    });
+                    $(select).val(selectID);
+
+                }).fail(function (data) {
+                    // to do
+                    detailBaiBaoJS.DelSuccess(data);
+                });
+            }
+
+            CheckGiaoVien(obj) {
+                if ($(obj).val() == 0) {
+                    $(obj).parent().append('<small class="text-danger float-right">Vui lòng điền thông tin !</small>')
+                    setTimeout(function () {
+                        $(obj).parent().find('.text-danger').remove();
+                    }, 3000);
+                    return false;
+                }
+                return true;
+
+            }
+
+            // reponse after creat new Thanh vien
+            RespondSuccess(data) {
+                if (data.status == true) {
+                    toastr.success(data.message);
+                    this.loadThanhVien();
+                }
+                else {
+                    setTimeout(function () {
+                        $('.modal-body > .card-body').append(data.message);
+                    }, 3000);
+                }
+            };
+
+            AddFail(data) {
+                setTimeout(function () {
+                    $('.modal-body > .card-body').append("<p>! Lỗi hệ thống</p>");
+                }, 3000);
+            };
+            //-------------//
+
+            // reponse after delete Thanh vien
+            DelSuccess(message) {
+                //detaiJS.pageTotal = detaiJS.pageTotal - 1;
+                //if ((detaiJS.page - 1) * 10 + 1 > detaiJS.pageTotal) {
+                //    detaiJS.page -= 1;
+                //}
+                this.listThanhVien.length = 0;
+                this.loadThanhVien();
+
+                var Toast = Swal.mixin({
+                    toast: true,
+                    position: 'top-end',
+                    showConfirmButton: false,
+                    timer: 10000
+                });
+                Toast.fire({
+                    icon: 'success',
+                    title: message
+                })
+            };
+        }
+
+        var detailBaiBaoJS = new DetailBaiBaoJS();
+        detailBaiBaoJS.loadBaiBao();
+        detailBaiBaoJS.loadThanhVien();
+
+        //create thanh vien
+        // reload select of giao vien
+        // reset then open modal create Thanh Vien
+        $('#bt_createThanhVien').click(function () {
+            document.getElementById("createThanhVienForm").reset();
+            detailBaiBaoJS.loadSelectGiaoVien($('#createThanhVienForm select[name="IdGiaoVien"]'));
+        });
+        //----------------//
+
+        $('#CreateThanhVien').click(function (event) {
+            event.preventDefault();
+            var model = {};
+            var check = detailBaiBaoJS.CheckGiaoVien($('#createModal select[name="IdGiaoVien"]'));
+            if (!check) {
+                return;
+            }
+
+            model.IdGiaoVien = $('#createThanhVienForm select[name="IdGiaoVien"]').val();
+            model.idBaiBao = detailBaiBaoJS.idBaiBao;
+            model.SoGio = $('#createThanhVienForm input[name="Gio"]').val();
+
+            $.ajax({
+                url: 'http://localhost:54555/api/BaiBao/ThemThanhVien',
+                data: JSON.stringify(model),
+                dataType: 'json',
+                method: 'POST',
+                contentType: 'application/json'
+            }).done(function (data) {
+                detailBaiBaoJS.RespondSuccess(data);
+                $('#createModal').modal('hide');
+            }).fail(function (data) {
+                // to do
+                detailBaiBaoJS.AddFail(data);
+            });
+        });
+        //--create thanh vien
+
+        //delete
+        $("table").delegate(".delete", "click", function (event) {
+            event.stopPropagation();
+            var IdGVBB = $(this).data('id').toString();
+            $('#confirmDel').data('id', IdGVBB);
+            $('#confirmDeleteModal').modal('show');
+            return false;
+        });
+
+        $('#confirmDel').click(function () {
+            $('#confirmDeleteModal').modal('hide');
+            var IdGVBB = $(this).data('id').toString();
+
+            $.ajax({
+                url: 'http://localhost:54555/api/BaiBao/XoaThanhVien?Id=' + IdGVBB,
+                method: "DELETE",
+                dataType: 'json',
+                contentType: 'application/json'
+            }).done(function (data) {
+                if (data.status == true) {
+                    detailBaiBaoJS.DelSuccess(data.message);
+                }
+                else {
+                    alert("Lỗi! không thể xóa")
+                }
+
+            }).fail(function () {
+                alert("Lỗi! không thể xóa")
+            });
+        });
+        //----------//
+
+
+        //edit detai
+        // reload select of loai BaiBao
+        $("table").on("click", ".edit", function (event) {
+            event.stopPropagation();
+            var IdGVBB = $(this).data('idgvbb').toString();
+            $('#EditThanhVien').data('idgvbb', IdGVBB);
+            var IdGiaoVien = $(this).data('idgiaovien').toString();
+            $('#EditThanhVien').data('idgiaovien', IdGiaoVien);
+            //add to form
+            $('#edithModal input[name="IdBaiBao"]').val(detailBaiBaoJS.idBaiBao);
+            var childOfRow = $(this).parent().parent().find('td');
+            $('#edithModal input[name="IdGiaoVien"]').val(childOfRow[2].innerText);
+            var Gio = parseInt($(this).data('SoGio'))
+
+            $('#edithModal select[name="Gio"]').val(Gio);
+            //---------//
+            $('#edithModal').modal('show');
+        });
+
+        $('#EditThanhVien').click(function () {
+            event.preventDefault();
+            var model = {};
+            model.Id = $(this).data('idgvbb');
+            model.IdGiaoVien = $(this).data('idgiaovien');
+            model.idBaiBao = detailBaiBaoJS.idBaiBao;
+            model.SoGio = $('#edithModal input[name="Gio"]').val();
+            $.ajax({
+                url: 'http://localhost:54555/api/BaiBao/SuaThanhVien',
+                data: JSON.stringify(model),
+                dataType: 'json',
+                method: 'PUT',
+                contentType: 'application/json'
+            }).done(function (data) {
+                detailBaiBaoJS.RespondSuccess(data);
+                $('#edithModal').modal('hide');
+            }).fail(function (data) {
+                // to do
+                detailBaiBaoJS.AddFail(data);
+            });
+        });
+                             //--edit detai
+    </script>
+}
+
