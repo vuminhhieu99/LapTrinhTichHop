@@ -189,6 +189,7 @@ namespace QLNCKHGV.Controllers
                                 DienThoai = gv.DienThoai,
                                 Email = gv.Email,
                                 IdGVBB = gv_bb.Id,
+                                SoGio = gv_bb.SoGio,
                                 BoMon = gv.IdBoMon == null ? null : new BoMonModel()
                                 {
                                     Id = gv.BoMon.Id,

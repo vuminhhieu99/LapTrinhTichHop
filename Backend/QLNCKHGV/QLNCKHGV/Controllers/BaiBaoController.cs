@@ -335,6 +335,21 @@ namespace QLNCKHGV.Controllers
             db.SaveChanges();
             return Ok(new { status = true, message = "Xóa Bài báo thành công!" });
         }
+        [Route("api/BaiBao/SuaThanhVien")]
+        public IHttpActionResult PutThanhVien(GV_BaiBao model)
+        {
+            if (!ModelState.IsValid)
+                return Ok(new { status = false, message = "Sai dữ liệu đầu vào!" });
+            GV_BaiBao dbEntry = db.GV_BaiBao.Find(model.Id);
+            if (dbEntry == null)
+            {
+                return Ok(new { status = false, message = "Cập nhật thất bại!" });
+            }
+
+            dbEntry.SoGio = model.SoGio;
+            db.SaveChanges();
+            return Ok(new { status = true, message = "Cập nhật thành công!" });
+        }
 
         [Route("api/BaiBao/XoaThanhVien")]
         public IHttpActionResult DeleteThanhVien(int Id)

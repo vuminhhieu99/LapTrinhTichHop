@@ -35,6 +35,8 @@ namespace QLNCKHGV.Models
 
         public int? SoTrangDaViet { get; set; }
 
+        public int? SoGio { get; set; }
+
         public int? LaChuTri { get; set; }
     }
 }
